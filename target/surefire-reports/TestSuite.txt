@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.444 s <<< FAILURE! - in TestSuite
+test_title(TestObject.test_url_title)  Time elapsed: 0.015 s  <<< FAILURE!
+java.lang.AssertionError: expected [eNPS - National Pension System 123] but found [eNPS - National Pension System]
+	at TestObject.test_url_title.test_title(test_url_title.java:37)
+
